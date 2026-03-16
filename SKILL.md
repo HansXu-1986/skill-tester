@@ -110,6 +110,15 @@ No configuration needed, all test parameters provided interactively when testing
 
 ![支付宝赞赏码](https://pcsdata.baidu.com/thumbnail/0105b65d3hc459885de5ae19b517cfa7?fid=843748537-16051585-645516420529129&rt=pr&sign=FDTAER-yUdy3dSFZ0SVxtzShv1zcMqd-2sh4WyLvEGJkEXw3S2lFgGSAX8M%3D&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=575398625919898124&dp-callid=0&time=1773633600&bus_no=26&size=c1600_u1600&quality=100&vuk=-&ft=video)
 
+## 💬 反馈与建议
+
+如果你使用中遇到问题，或者有好的建议，欢迎反馈：
+
+- 🐛 **问题报告**: [点击这里报告 Bug](https://github.com/HansXu-1986/skill-tester/issues/new)
+- 💡 **功能建议**: [点击这里提建议](https://github.com/HansXu-1986/skill-tester/issues/new)
+
+感谢你的反馈，帮助我们变得更好 🙏
+
 ## Changelog
 
 ### 1.1.0 (2026-03-16)
